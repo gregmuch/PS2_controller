@@ -1,4 +1,4 @@
-#include <PS2X_lib.h>  //for v1.6
+#include "PS2X_lib.h"  //for v1.6
 
 /******************************************************************
  * set pins connected to PS2 controller:
